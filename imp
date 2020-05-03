@@ -1,0 +1,6 @@
+=== check refrence
+==
+
+/redux side to react sidde always use mapStatetoprop
+
+// reducers run first default time and after all reducers runs then also render methd called
